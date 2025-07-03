@@ -1,0 +1,3 @@
+C:/Users/Tien/OneDrive/Desktop/CTDL&GT/PTIT_CNTT2_IT201_Session10_Bai06/cmake-build-debug/CMakeFiles/PTIT_CNTT2_IT201_Session10_Bai06.dir
+C:/Users/Tien/OneDrive/Desktop/CTDL&GT/PTIT_CNTT2_IT201_Session10_Bai06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tien/OneDrive/Desktop/CTDL&GT/PTIT_CNTT2_IT201_Session10_Bai06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
